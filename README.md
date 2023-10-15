@@ -1,3 +1,4 @@
+![logo](https://github.com/DevOpsByOmer/DevOpsByOmer/blob/main/blog-main-banner-devops.png)
 <h1 align="center">Hi, I'm Omer Mohammed</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 <img align="right" alt="ops" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
